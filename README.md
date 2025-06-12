@@ -1,6 +1,8 @@
 # CAD-COVID-19
 
-This repository contains R scripts used to analyze the association between SARS-CoV-2 infection and risk of cardiovascular outcomes in patients with coronary artery disease using EHR data from the Montefiore Health System. Code shows how to perform Fine-Gray competing risk regression, Cox-proportional hazards regression, and cumulative incidence function and Kaplan-Meier curve generation.
+This repository contains R scripts used to analyze the association between SARS-CoV-2 infection and risk of cardiovascular outcomes in patients with coronary artery disease using EHR data from the Montefiore Health System. Code shows how to perform Fine-Gray competing risk regression, Cox-proportional hazards regression, and cumulative incidence function and Kaplan-Meier curve generation. 
+
+Find the published paper in eBioMedicine here: https://doi.org/10.1016/j.ebiom.2025.105778
 
 ## Requirements
 
